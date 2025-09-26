@@ -21,7 +21,7 @@ It is part of **Level 3 – Task 1** of the Java Development Learning Path.
 chat-app/
 │── ChatServer.java   # Server code
 │── ChatClient.java   # Client code
-│── README.md         # Documentation
+README.md         # Documentation
 ```
 
 ---
